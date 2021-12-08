@@ -3,3 +3,4 @@ TYH Labs: Fantastic git workshop.
 - Any suggestions before and after each workshop are welcome. (i.e. email paul)
 - This git repository will be updated throughout the workshop (remember to pull and update).
 - If you spotted any error feel free to send me a pull request.
+- creating a remote repository.
